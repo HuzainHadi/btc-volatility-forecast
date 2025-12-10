@@ -6,3 +6,5 @@ scikit-learn
 tensorflow
 arch
 keras-tuner
+seaborn
+scipy
