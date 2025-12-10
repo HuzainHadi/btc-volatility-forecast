@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Large data files (optional, jika data > 100MB)
+*.csv
+!results/*.csv  # Kecuali folder results
